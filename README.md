@@ -1,7 +1,7 @@
 # hot-utils
 各种趁手的电脑工具合集
 
-## sysytem
+## system
 ### 1. context-search (PyQt 文件搜索工具)
 
 基于 PyQt5 的文件搜索工具程序，具有以下功能：
